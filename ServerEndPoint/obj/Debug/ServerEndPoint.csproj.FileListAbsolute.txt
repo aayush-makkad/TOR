@@ -1,0 +1,6 @@
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\bin\Debug\ServerEndPoint.exe.config
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\bin\Debug\ServerEndPoint.exe
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\bin\Debug\ServerEndPoint.pdb
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\obj\Debug\ServerEndPoint.csprojResolveAssemblyReference.cache
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\obj\Debug\ServerEndPoint.exe
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\ServerEndPoint\obj\Debug\ServerEndPoint.pdb
