@@ -3,3 +3,4 @@ C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\2ndhop
 C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\2ndhop(TOR)\bin\Debug\2ndhop(TOR).pdb
 C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\2ndhop(TOR)\obj\Debug\2ndhop(TOR).exe
 C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\2ndhop(TOR)\obj\Debug\2ndhop(TOR).pdb
+C:\Users\aayum\onedrive\documents\visual studio 2015\Projects\Client(TOR)\2ndhop(TOR)\obj\Debug\2ndhop(TOR).csprojResolveAssemblyReference.cache

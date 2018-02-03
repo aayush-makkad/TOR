@@ -17,7 +17,7 @@ namespace alt_HOP_TOR_
             sck.Connect(ipe);
             //byte[] msg = Encoding.Default.GetBytes("dummm");
             //sck.Send(msg, 0, msg.Length, 0);
-            byte[] buffer = new byte[255];
+            byte[] buffer = new byte[2147480];
             int rec = sck.Receive(buffer, 0, buffer.Length, 0);
             Array.Resize(ref buffer, rec);
             string str = Encoding.Default.GetString(buffer);

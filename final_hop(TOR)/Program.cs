@@ -25,7 +25,7 @@ namespace final_hop_TOR_
             //sck.Send(msg,0,msg.Length,0);
             //byte[] msg2 = Encoding.Default.GetBytes("dummm");
             //sck.Send(msg2, 0, msg2.Length, 0);
-            byte[] buffer = new byte[255];
+            byte[] buffer = new byte[2147480];
             int rec = sck.Receive(buffer, 0, buffer.Length, 0);
             Array.Resize(ref buffer, rec);
             string str = Encoding.Default.GetString(buffer);

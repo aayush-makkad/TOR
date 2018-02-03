@@ -28,7 +28,7 @@ namespace ServerEndPoint
             sckm.Connect(ipem);
             //byte[] msg = Encoding.Default.GetBytes("dummm");
             //sck.Send(msg, 0, msg.Length, 0);
-            byte[] bufferm = new byte[255];
+            byte[] bufferm = new byte[2551000];
             int recm = sckm.Receive(bufferm, 0, bufferm.Length, 0);
             Array.Resize(ref bufferm, rec);
             string strm = Encoding.Default.GetString(bufferm); //odd bytes/char 
